@@ -1,2 +1,3 @@
 # bullseye
-A sports shooting club manager
+
+A sport shooting club manager
