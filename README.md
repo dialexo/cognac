@@ -1,2 +1,3 @@
-# bullseye
-A sports shooting club manager
+# cognac
+
+A sport shooting club manager
